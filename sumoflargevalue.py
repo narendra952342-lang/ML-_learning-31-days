@@ -3,3 +3,4 @@ total = 0
 for n in nums:
     total+=n
 print(total)
+print("h")
